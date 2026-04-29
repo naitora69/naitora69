@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am go developer and UNN 3rd year student
+
 <!--
 **naitora69/naitora69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
