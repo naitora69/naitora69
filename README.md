@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 I am go developer and UNN 3rd year student
+<img width="1300" height="1392" alt="image" src="https://github.com/user-attachments/assets/3375e3f9-fada-4f5c-a937-489f460e4c3e" />
 
-<img width="1300" height="1392" alt="image" src="https://github.com/user-attachments/assets/d4ebda17-0cf2-4366-a122-5aff774c2dd4" />
+
 
 
 <!--
