@@ -2,6 +2,9 @@
 
 I am go developer and UNN 3rd year student
 
+<img width="1300" height="1392" alt="image" src="https://github.com/user-attachments/assets/d4ebda17-0cf2-4366-a122-5aff774c2dd4" />
+
+
 <!--
 **naitora69/naitora69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
